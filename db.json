@@ -1,0 +1,301 @@
+{
+  "admin-users": [
+    {
+      "id": "1",
+      "email": "niranjan@gmail.com",
+      "password": "12345",
+      "username": "Niranjan",
+      "photoURL": "/assets/images/avatars/avatar_25.jpg"
+    },
+    {
+      "id": "2",
+      "email": "mohammed@gmail.com",
+      "password": "12345",
+      "username": "Mohammed",
+      "photoURL": "/assets/images/avatars/avatar_5.jpg"
+    }
+  ],
+  "customers": [
+    {
+      "id": "2",
+      "name": "Customer2",
+      "email": "customer2@gmail.com",
+      "mobile": 9000000001,
+      "city": "Banglore",
+      "country": "India"
+    },
+    {
+      "id": "3",
+      "name": "Customer3",
+      "email": "customer3@gmail.com",
+      "mobile": 9000000003,
+      "city": "Chennai",
+      "country": "India"
+    },
+    {
+      "id": "4",
+      "name": "Customer4",
+      "email": "customer4@gmail.com",
+      "mobile": 9000000004,
+      "city": "Pune",
+      "country": "India"
+    },
+    {
+      "id": "5",
+      "name": "Customer5",
+      "email": "customer5@gmail.com",
+      "mobile": 9000000005,
+      "city": "Hyderabad",
+      "country": "India"
+    },
+    {
+      "id": "6",
+      "name": "Customer6",
+      "email": "customer6@gmail.com",
+      "mobile": 9000000006,
+      "city": "Pune",
+      "country": "India"
+    },
+    {
+      "id": "7",
+      "name": "Customer7",
+      "email": "customer7@gmail.com",
+      "mobile": 9000000007,
+      "city": "Banglore",
+      "country": "India"
+    },
+    {
+      "id": "8",
+      "name": "Customer8",
+      "email": "customer8@gmail.com",
+      "mobile": 9000000008,
+      "city": "Chennai",
+      "country": "India"
+    },
+    {
+      "id": "9",
+      "name": "Customer9",
+      "email": "customer9@gmail.com",
+      "mobile": 9000000009,
+      "city": "Hyderabad",
+      "country": "India"
+    },
+    {
+      "id": "11",
+      "name": "Customer11",
+      "email": "customer11@gmail.com",
+      "mobile": 9000000011,
+      "city": "Pune",
+      "country": "India"
+    },
+    {
+      "id": "12",
+      "name": "Customer12",
+      "email": "customer12@gmail.com",
+      "mobile": 9000000012,
+      "city": "Hyderabad",
+      "country": "India"
+    },
+    {
+      "id": "13",
+      "name": "Customer13",
+      "email": "customer13@gmail.com",
+      "mobile": 9000000013,
+      "city": "Chennai",
+      "country": "India"
+    },
+    {
+      "id": "14",
+      "name": "Customer14",
+      "email": "customer14@gmail.com",
+      "mobile": 9000000014,
+      "city": "Banglore",
+      "country": "India"
+    },
+    {
+      "id": "15",
+      "name": "Customer15",
+      "email": "customer15@gmail.com",
+      "mobile": 9000000015,
+      "city": "Pune",
+      "country": "India"
+    },
+    {
+      "id": "16",
+      "name": "Customer16",
+      "email": "customer16@gmail.com",
+      "mobile": 9000000016,
+      "city": "Hyderabad",
+      "country": "India"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "productName": "Nike Air Force 1",
+      "quantity": "10",
+      "price": "150",
+      "image": "nike_air_force_1.jpg"
+    },
+    {
+      "id": "2",
+      "productName": "Apple iPhone 12 Pro",
+      "quantity": "5",
+      "price": "999",
+      "image": "iphone_12_pro.jpg"
+    },
+    {
+      "id": "3",
+      "productName": "Samsung Galaxy Watch 3",
+      "quantity": "8",
+      "price": "399",
+      "image": "galaxy_watch_3.jpg"
+    },
+    {
+      "id": "4",
+      "productName": "Sony PlayStation 5",
+      "quantity": "3",
+      "price": "499",
+      "image": "playstation_5.jpg"
+    },
+    {
+      "id": "5",
+      "productName": "Canon EOS R5",
+      "quantity": "2",
+      "price": "3899",
+      "image": "eos_r5.jpg"
+    },
+    {
+      "id": "4c74",
+      "productName": "tshirt",
+      "quantity": "2",
+      "price": "10",
+      "image": {}
+    },
+    {
+      "id": "033d",
+      "productName": "tshirt",
+      "quantity": "2",
+      "price": "10",
+      "image": {}
+    },
+    {
+      "id": "d4e3",
+      "productName": "tshirt",
+      "quantity": "2",
+      "price": "10",
+      "image": {}
+    },
+    {
+      "id": "b1c4",
+      "productName": "tshirt",
+      "quantity": "2",
+      "price": "10",
+      "image": {}
+    },
+    {
+      "id": "15c3",
+      "productName": "tshirt",
+      "quantity": "2",
+      "price": "10",
+      "image": {}
+    },
+    {
+      "id": "747c",
+      "productName": "tshirt",
+      "quantity": 2,
+      "price": 10,
+      "image": {}
+    },
+    {
+      "id": "cb7d",
+      "productName": "12",
+      "quantity": 12,
+      "price": 12,
+      "image": {}
+    },
+    {
+      "id": "80fa",
+      "productName": "12",
+      "quantity": 12,
+      "price": 12,
+      "image": {}
+    },
+    {
+      "id": "c5d6",
+      "productName": "12",
+      "quantity": 12,
+      "price": 12,
+      "image": {}
+    }
+  ],
+  "salesByProducts": [
+    {
+      "productId": 1,
+      "quantity": 10,
+      "totalSales": 1000,
+      "id": "2248"
+    },
+    {
+      "productId": 2,
+      "quantity": 5,
+      "totalSales": 250,
+      "id": "9961"
+    },
+    {
+      "productId": 3,
+      "quantity": 3,
+      "totalSales": 90,
+      "id": "cab0"
+    },
+    {
+      "productId": 4,
+      "quantity": 2,
+      "totalSales": 60,
+      "id": "a54f"
+    },
+    {
+      "productId": 5,
+      "quantity": 4,
+      "totalSales": 120,
+      "id": "f48c"
+    }
+  ],
+  "productAnalytics": {
+    "totalProducts": 5,
+    "totalCategories": 5,
+    "totalSales": 1520
+  },
+  "salesByCategory": [
+    {
+      "categoryId": 1,
+      "quantity": 10,
+      "totalSales": 500,
+      "id": "126a"
+    },
+    {
+      "categoryId": 2,
+      "quantity": 5,
+      "totalSales": 250,
+      "id": "416d"
+    },
+    {
+      "categoryId": 3,
+      "quantity": 3,
+      "totalSales": 90,
+      "id": "4adc"
+    },
+    {
+      "categoryId": 4,
+      "quantity": 2,
+      "totalSales": 60,
+      "id": "a170"
+    },
+    {
+      "categoryId": 5,
+      "quantity": 4,
+      "totalSales": 120,
+      "id": "e9f0"
+    }
+  ]
+}
